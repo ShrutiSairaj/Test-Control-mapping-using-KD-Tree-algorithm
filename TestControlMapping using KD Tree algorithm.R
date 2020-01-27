@@ -2,7 +2,7 @@
 library(RANN)
 list.files()
 
-#C:\Users\shibendu.mukherjee\Documents\OG\25.FY20_forecast\Delivery_fulflment_type
+#C:\Users\shruti.sairaj\Documents\OG\25.FY20_forecast\Delivery_fulflment_type
 
 
 setwd("C:/Users/shibendu.mukherjee/Documents/OG/31_Store_Closure")
